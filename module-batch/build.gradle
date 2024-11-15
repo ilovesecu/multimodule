@@ -5,3 +5,5 @@ dependencies {
     implementation project(":module-core")
 }
 
+bootJar.enabled = true
+jar.enabled=false

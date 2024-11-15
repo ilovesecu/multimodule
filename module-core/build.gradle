@@ -5,3 +5,4 @@ dependencies {
 
 }
 
+bootJar.enabled = false
